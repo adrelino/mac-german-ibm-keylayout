@@ -1,0 +1,1 @@
+sudo cp *.keylayout /Library/Keyboard\ Layouts/
