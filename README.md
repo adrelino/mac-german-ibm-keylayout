@@ -1,7 +1,9 @@
 # mac-german-ibm-keylayout
 
-copy to /Library/Keyboard Layouts
-open keyboard preferences, 4th tab (very right), others, +, select the layout to add
+install:
+1. copy to /Library/Keyboard Layouts
+2. open keyboard preferences, 4th tab (very right),
+3. others, +, select the layout to add
 
 based on:
 * win-germany: https://jankarres.de/2013/07/windows-tastaturlayout-unter-mac-os-x/
